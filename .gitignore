@@ -1,0 +1,32 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+pnpm-lock.yaml
+npm-debug.log
+
+# Go build
+bin/
+*.exe
+*.out
+*.test
+
+# Temp
+*.log
+*.tmp
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# AOC input backups
+*/input-backup.txt
+
+# Local env and config
+.env
+.env.*
+
