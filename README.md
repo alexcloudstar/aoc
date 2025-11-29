@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="/assets/banner.png" width="100%">
+</p>
+
+
 # Advent of Code
 
 Solving Advent of Code puzzles in Go and JavaScript. This repo is my learning lab for practicing problem solving, improving DSA skills, and recording my coding journey.
