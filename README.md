@@ -2,7 +2,6 @@
   <img src="assets/banner.png" alt="Banner">
 </p>
 
-
 # Advent of Code
 
 Solving Advent of Code puzzles in Go and JavaScript. This repo is my learning lab for practicing problem solving, improving DSA skills, and recording my coding journey.
@@ -14,34 +13,37 @@ Solving Advent of Code puzzles in Go and JavaScript. This repo is my learning la
 - Keep everything simple and readable
 - Track progress in one place
 
-## Structure
+## Folder structure
 
 ```
 2025/
   go/
     day01/
-      main.go
-      input.txt
+      go.mod
+      part1.go
+      part1.txt
+      part2.go
+      part2.txt
       sample.txt
-    day02/
-      ...
   js/
     day01/
-      index.mjs
-      input.txt
+      part1.mjs
+      part1.txt
+      part2.mjs
+      part2.txt
       sample.txt
-    day02/
-      ...
 assets/
-notes/
+  banner.png
+LICENSE
+README.md
 ```
 
-Each day has:
+Each day includes:
 - a folder
-- a solution file
+- a working solution
 - real input and sample input
 
-## Run the solutions
+## Run solutions
 
 ### Go
 
@@ -52,31 +54,20 @@ go run .
 
 ### JavaScript
 
-Install once:
-
-```
-cd 2025/js
-pnpm install
-```
-
 Run:
 
 ```
 cd day01
-node index.mjs
+node part1.mjs
 ```
 
 ## Progress
 
 | Day | Go | JS |
 | --- | --- | --- |
-| 01  |     |     |
-| 02  |     |     |
-| 03  |     |     |
+| 01  | ✅ | ✅ |
 
-## Notes
-
-I keep personal notes and thoughts in the notes folder. It contains explanations or things I learned while solving each problem.
+More days will be added here as I go.
 
 ## License
 
