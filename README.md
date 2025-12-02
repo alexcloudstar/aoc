@@ -6,12 +6,16 @@
 
 Solving Advent of Code puzzles in Go and JavaScript. This repo is my learning lab for practicing problem solving, improving DSA skills, and recording my coding journey.
 
+## YouTube Series
+
+I’m recording the full Advent of Code 2025 journey in both Go and JavaScript on my YouTube channel.  
+Check out the playlist [here](https://www.youtube.com/playlist?list=PLQju-ldwaYGIHXXt2ENmwKAwZMEX__qNU)
 ## Goals
 
-- Solve Advent of Code every day
-- Build solutions in Go and JavaScript
-- Keep everything simple and readable
-- Track progress in one place
+- Solve Advent of Code every day  
+- Build solutions in Go and JavaScript  
+- Keep everything simple and readable  
+- Track progress in one place  
 
 ## Folder structure
 
@@ -39,9 +43,9 @@ README.md
 ```
 
 Each day includes:
-- a folder
-- a working solution
-- real input and sample input
+- a folder  
+- a working solution  
+- real input and sample input  
 
 ## Run solutions
 
@@ -54,10 +58,8 @@ go run .
 
 ### JavaScript
 
-Run:
-
 ```
-cd day01
+cd 2025/js/day01
 node part1.mjs
 ```
 
