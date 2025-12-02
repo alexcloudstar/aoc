@@ -66,6 +66,7 @@ node part1.mjs
 | Day | Go | JS |
 | --- | --- | --- |
 | 01  | ✅ | ✅ |
+| 02  | ✅ | ✅ |
 
 More days will be added here as I go.
 
