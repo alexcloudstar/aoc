@@ -69,7 +69,7 @@ node part1.mjs
 | --- | --- | --- |
 | 01  | ✅ | ✅ |
 | 02  | ✅ | ✅ |
-| 03  | ❌ | ❌ |
+| 03  | ❌ | ✅ |
 
 More days will be added here as I go.
 
